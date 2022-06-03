@@ -1,0 +1,15 @@
+.cataloguepost {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+.cataloguepost >div {
+    border: 2px solid #f2f3ef;
+    background-color: white;
+    margin: .2rem;
+    padding-bottom: 1rem;
+    max-width: 230px;
+    border-radius: 10px;
+}

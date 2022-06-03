@@ -1,0 +1,23 @@
+.catalogue-div{
+    display: flex;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+.catalogue-div > img{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+.profile-name{
+    margin: 5px 10px;
+}
+.profile-name >p{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+.profile-name> small{
+    display: flex;
+    justify-content: center;
+}

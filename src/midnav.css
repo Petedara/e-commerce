@@ -1,0 +1,10 @@
+.midnav{
+    margin: 0;
+    padding: 0;
+}
+.category{
+    /* background-color: red;/ */
+    display: flex;
+    margin: 0 15px;
+    padding: 0;
+} 
